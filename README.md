@@ -3,4 +3,4 @@ Une application java EE de E-commerce avec une partie admin / authentification /
 Base de donnée: boutique <br />
 table article = (code: int, nom: string, description: string, quantite: int, prix int) <br />
 table utilisateur = (id: int, nom: string, prenom: string, email: string, password: string) <br />
-<img src="https://github.com/MehdiBC/Boutique-Application-J2EE/blob/master/src/main/webapp/img/logo.jpg">
+<img src="https://github.com/MehdiBC/Boutique-Application-J2EE/blob/master/src/main/webapp/img/logo.jpg" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
